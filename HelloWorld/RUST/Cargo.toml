@@ -1,0 +1,16 @@
+[package]
+name = "helloworld-cargo"
+version = "0.0.1"
+build = "helloworld.rs"
+
+[dependencies]
+
+[profile.release]
+opt-level = "z"     # Optimize for size.
+lto = true          # Enable Link Time Optimization
+codegen-units = 1   # Reduce number of codegen units to increase optimizations.
+panic = "abort"     # Abort on panic
+
+[[bin]]
+name = "helloworldCargo"
+path = "helloworld.rs"

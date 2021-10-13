@@ -1,0 +1,16 @@
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#.deps.json
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#.dll
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/ref/C#.dll
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Debug/net5.0/C#.pdb
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.csproj.AssemblyReference.cache
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.dll
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/ref/C#.dll
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.pdb
+/home/justas/Projects/Languages/HelloWorld/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache

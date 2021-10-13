@@ -1,0 +1,5 @@
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Release/net5.0/publish/C#
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Release/net5.0/publish/C#.dll
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Release/net5.0/publish/C#.deps.json
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Release/net5.0/publish/C#.runtimeconfig.json
+/home/justas/Projects/Languages/HelloWorld/C#/bin/Release/net5.0/publish/C#.pdb
