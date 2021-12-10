@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perlin Noise</title>
+</head>
+<body>
+    <label for="inputX"> X </label>
+    <input id="inputX" type="text" min="0" max="255">
+    <p>Value: <span id="outputX"></span></p>
+    <label for="inputX"> Y </label>
+    <input id="inputY" type="text" min="0" max="255">
+    <p>Value: <span id="outputY"></span></p>
+    <label for="inputX"> Z </label>
+    <input id="inputZ" type="text" min="0" max="255">
+    <p>Value: <span id="outputZ"></span></p>
+    <br />
+    <p>Perlin Value: <span id="outputPerlin"></span></p>
+
+    <canvas style="height:400px" id="canvas"></canvas>
+    <script src="perlin.js"></script>
+</body>
+</html>
