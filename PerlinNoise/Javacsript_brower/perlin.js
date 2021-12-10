@@ -84,7 +84,7 @@ function perlinToColor(perlin) {
 
 const sliderX = document.getElementById("inputX");
 const sliderY = document.getElementById("inputY");
-const sliderZ = document.getElementById("inputZ");
+const sliderZ = document.getElementById("inputZ"); 
 
 const valueX = document.getElementById("outputX");
 const valueY = document.getElementById("outputY");
